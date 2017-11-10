@@ -2,7 +2,7 @@
 Created a Text Editor Using Java and a Launch script to launch the Text editor
 # PreRequisites
 <pre>
--Linux OPerating System(UBUNTU)
+-Linux Operating System(UBUNTU)
 -jdk 8 or above installed
 -Netbeans Ide installed(if you want to look at the source code and make changes according to your needs).</pre>
 # Follow The Instructions to install the Text Editor
